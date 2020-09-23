@@ -1,0 +1,50 @@
+Attribute VB_Name = "readme"
+'*************************************************************************************************
+'
+'
+'License for multithreader, an Multi threading demo
+'Copyright 2004, Amit Gaurav Singh
+'
+'This program is free software; you can redistribute it and/or modify
+'it under the terms of the GNU General Public License as published by
+'the Free Software Foundation; either version 2 of the License, or
+'(at your option) any later version.
+'
+'This program is distributed in the hope that it will be useful,
+'but WITHOUT ANY WARRANTY; without even the implied warranty of
+'MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+'GNU General Public License for more details.
+'
+'You should have received a copy of the GNU General Public License
+'along with this program; if not, write to the Free Software
+'Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307
+'USA
+'
+'
+'-Comments-
+'
+'
+'This application demonstrates how multiple threading can be enabled from visual basic itself
+'The idea has been taken from (David Nishimoto) article for multi threading and has been expanded and modified as pre suited You can visit the article on follwing link -->http://www.freevbcode.com/ShowCode.Asp?ID=4029 <--
+'comments and reviews on this technique are welcome
+' can be used for doing long work without blocking the main thread as in other languages as java , c++
+'
+'- end comments
+'
+'-contact info
+'
+'Name.... Amit gaurav singh
+'Email... (Who_r_u_20002@yahoo.com)
+'Address************************************
+'
+'
+'
+'-end contact info
+'
+'Goals for future !
+'
+'1. I want to develop an ide for visual basic on linux desktop as vb is my favourite language and iam not able to find a subsitute for it on linux The developers who are interested in this project can contact me on (Who_r_u_20002@yahoo.com) any type of help and support or contribution to the projects will be welcomed.
+'
+'
+'
+'*************************************************************************************************
